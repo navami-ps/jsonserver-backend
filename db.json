@@ -1,0 +1,43 @@
+{
+  "Videos": [
+    {
+      "id": "1",
+      "caption": "leo",
+      "url": "https://ticketnews.in/wp-content/uploads/2023/10/LEO-Movie-Tickets-in-USA.webp",
+      "embedlink": "https://www.youtube.com/embed/IqwIOlhfCak"
+    },
+    {
+      "id": "2",
+      "caption": "jailer",
+      "url": "https://i.ytimg.com/vi/QRDlXfhMG2c/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/lM8h5Mm6ODo"
+    }
+  ],
+  "Categories": [
+    {
+      "categoryname": "fdd",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "leo",
+          "url": "https://ticketnews.in/wp-content/uploads/2023/10/LEO-Movie-Tickets-in-USA.webp",
+          "embedlink": "https://www.youtube.com/embed/IqwIOlhfCak"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "categoryname": "trailers",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "jailer",
+          "url": "https://i.ytimg.com/vi/QRDlXfhMG2c/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/lM8h5Mm6ODo"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "History": []
+}
